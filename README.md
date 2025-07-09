@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Maxim  
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="30"></h1>
+<h1 align="center">Hi, I'm Maxim  
 <h3 align="center">Computer science student at ITMO University in St. Petersburg 🇷🇺</h3>
 
 
